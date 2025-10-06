@@ -1,0 +1,10 @@
+nav {
+    background-color: turquoise;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+body{
+    margin: 0;
+    background-color:darkcyan;
+}
